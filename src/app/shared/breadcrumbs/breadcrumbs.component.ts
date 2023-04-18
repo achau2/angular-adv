@@ -25,7 +25,7 @@ export class BreadcrumbsComponent implements OnInit, OnDestroy {
     //   filter((evento: Event): evento is ActivationEnd =>evento instanceof ActivationEnd),
     //   filter((evento: ActivationEnd) => evento.snapshot.firstChild === null),
     //   map((evento: ActivationEnd) => evento.snapshot.data)
-    // ).subscribe(({titulo}) =>{ <- desustructuracion
+    // ).subscribe(({titulo}) =>{ <- desestructuracion
     //   // console.log(data);
     //   this.titulo = titulo;
     //   //texto tab browser
